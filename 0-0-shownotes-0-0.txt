@@ -1,0 +1,95 @@
+Σncryt3d VRChat Event Host Guide
+Version 1.4 – Last updated: September 8, 2025
+
+Table of Contents
+ • Quick Start Checklist
+ • Event Setup
+ • Starting Your Event
+ • Ending Your Event
+ • Comfort Settings & Participant Tools
+ • Troubleshooting and How-To’s
+ • Roles at a Glance
+ • Upcoming Links
+
+This guide is here to help you run smooth, secure, and engaging events in VRChat. It walks you through everything from setup and promotion to moderation and wrap-up. Setting clear expectations, dealing with tech issues early, and promoting your event in the right places will help reduce confusion and increase turnout.
+The goal is to keep things inclusive, well-managed, and fun, while giving people the freedom to enjoy the experience in their own way.
+
+Quick Start Checklist
+ ✅ Calendar invites posted (Discord & VRChat)
+ ✅ Group+ instance created under Σncryt3d
+ ✅ Mic/audio tested
+ ✅ Co-host confirmed (if possible)
+ ✅ Welcome message and rules ready
+ ✅ Mod support lined up (if needed)
+---
+1
+Event Setup
+- Create a calendar invite in Discord. If it’s a recurring event, set it to repeat. Most events should aim for around 60 minutes, unless it’s something bigger like a movie night, game marathon, or the Late Show.
+- Create a matching invite in the VRChat calendar. Right now, each event has to be made manually until recurring events are supported. If you want to add an image to your VRC event and you don't have VRChat+ just message @captndan @discordkitty or @dutch jones with your banner you want to add and we will add it to your event. 
+- Posting in both calendars helps avoid overlap and gives your event visibility inside and outside of VRChat.
+- Share your event in the appropriate event channel on Discord, and give it a final push in the general channel about 5–15 minutes before it starts.
+- About five minutes before go-time, create your Group+ instance under the Σncryt3d group.
+- Test your mic, audio, and VR settings ahead of time so things don’t break mid-event.
+- If you can, bring in a co-host to help manage the flow or take over if something comes up.
+- Moderators and admins are usually around if you need help with moderation. Just ask. The instance owner will have the ability to moderate their event.
+---
+2
+Starting Your Event
+- Welcome everyone and set a friendly, respectful tone.
+- Let people know what to expect. Give a quick overview of the plan, like:
+ “We’ll start with introductions, then move into the activity or discussion, and finish with a closing.”
+- If the event needs rules, explain them early. Remind people to respect each other, avoid trolling, and not interrupt. This is especially important in interactive events like improv or Lean On Me.
+- Invite people to engage however they’re most comfortable. They can participate, talk, play, share, or just listen and hang out.
+- When new folks join, take a moment to welcome them, explain what’s going on, and invite them to join in. It helps them feel included and keeps things running smoothly.
+- Handling Takeover Attempt. If someone tries to run the event their own way, politely acknowledge their input but set clear boundaries. For example: “I appreciate your ideas, but I’d like to keep things on track with the plan for today’s event. Please sit back, relax, and enjoy as a participant.”
+---
+3
+Ending Your Event
+- Give a clear cue when the event is wrapping up so no one is left wondering what to do.
+- Suggest next steps, like other events happening later or regular hangout worlds they can jump into.
+- Be mindful of the time. Try to finish before the next scheduled event. If possible, drop a portal or point people to where they can go next.
+- Sample wrap-up line:
+ “That’s the end of the event, but if you’d like to keep hanging out, here are a few options...”
+- After the event, take a few minutes to note what worked and what didn’t. This helps you tweak things for next time. If you had a co-host, check in with them for feedback too.
+
+⭐ Remember: You don’t have to be perfect, just present. Your job is to create a welcoming space, and the community appreciates your effort. If something goes off track, just adapt and keep going.
+---
+4
+Comfort Settings and Participant Tools
+Give these reminders early on to help everyone feel more in control of their space:
+- Show how to use earmuff mode and adjust sound radius.
+- Explain how to control individual volume levels, mute, or turn people up/down.
+- Encourage use of the Moderation tab for personal safety (block, mute, report).
+
+If your event doesn’t allow avatar powers or sound effects, make that clear from the start. Give one warning if needed, and if the issue continues, remove the person.
+
+If side conversations get loud or off-topic, gently bring the focus back or ask folks to move to a quieter spot if it’s not related to the event.
+---
+5
+Troubleshooting and How-To’s
+Full instructional videos are available in the Host Hub on Discord.
+Here are some common issues and quick fixes:
+- Mic or audio not working?
+ Check your input settings in VRChat and Windows. Try switching mics or reselecting it in the VRChat menu.
+- Can’t hear others?
+ Make sure earmuff mode is off and your sound radius is set correctly.
+- Not sure where to find something?
+ Use the VRChat menu to access Settings or Safety, or ask a mod or co-host to help.
+
+This section should include quick guidance on:
+ • Common mic and audio issues
+ • How to use VRChat’s UI tools
+ • Where to find help or settings during the event
+ • Moderation via the group
+Feel free to expand this section based on the needs of your specific group or event style.
+---
+6
+Roles at a Glance
+Understanding who does what makes hosting easier and smoother. Here's a quick breakdown:
+- Host
+ Runs the event, creates the Group+ instance, sets the tone, explains the rules, and guides the flow.
+ Note: The host who creates the instance or portal automatically has moderation permissions for that instance.
+- Co-Host
+ Assists with managing the event. Can greet late joiners, help answer questions, redirect side conversations, or take over if the host disconnects or needs support.
+- Moderator/Admin
+ Handles rule enforcement, moderation tools, technical support, or escalations during the event if needed.
