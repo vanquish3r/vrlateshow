@@ -1,95 +1,169 @@
-Σncryt3d VRChat Event Host Guide
-Version 1.4 – Last updated: September 8, 2025
+The VR Late Show Episode #75
+October 5th, 2025
 
-Table of Contents
- • Quick Start Checklist
- • Event Setup
- • Starting Your Event
- • Ending Your Event
- • Comfort Settings & Participant Tools
- • Troubleshooting and How-To’s
- • Roles at a Glance
- • Upcoming Links
+=> Opening 
+=> Socials / picture 
+=> community spotlight
+=> Day of week
+=> dan dutch photo contest winner
+=> heckler 
+=> Chaos Clicker  Zed Video Intro
+=> Fake Conspiracies
+=> Game Giveaway
+=> Darwin 
+=> snack time with big jon
+=> Chicken  feast 2025 - big jon video 
+=> Sell it 
+=> Roast of Fish & Bone 
+=> hot take 
+=> Prizes
+=> Picture
+=> Divine's Song x2
 
-This guide is here to help you run smooth, secure, and engaging events in VRChat. It walks you through everything from setup and promotion to moderation and wrap-up. Setting clear expectations, dealing with tech issues early, and promoting your event in the right places will help reduce confusion and increase turnout.
-The goal is to keep things inclusive, well-managed, and fun, while giving people the freedom to enjoy the experience in their own way.
-
-Quick Start Checklist
- ✅ Calendar invites posted (Discord & VRChat)
- ✅ Group+ instance created under Σncryt3d
- ✅ Mic/audio tested
- ✅ Co-host confirmed (if possible)
- ✅ Welcome message and rules ready
- ✅ Mod support lined up (if needed)
+Game Key Winners: Kaymerd, Oozyrat, Nystx, CrypticWoodworker, bigjon, 5dollarchips
 ---
-1
-Event Setup
-- Create a calendar invite in Discord. If it’s a recurring event, set it to repeat. Most events should aim for around 60 minutes, unless it’s something bigger like a movie night, game marathon, or the Late Show.
-- Create a matching invite in the VRChat calendar. Right now, each event has to be made manually until recurring events are supported. If you want to add an image to your VRC event and you don't have VRChat+ just message @captndan @discordkitty or @dutch jones with your banner you want to add and we will add it to your event. 
-- Posting in both calendars helps avoid overlap and gives your event visibility inside and outside of VRChat.
-- Share your event in the appropriate event channel on Discord, and give it a final push in the general channel about 5–15 minutes before it starts.
-- About five minutes before go-time, create your Group+ instance under the Σncryt3d group.
-- Test your mic, audio, and VR settings ahead of time so things don’t break mid-event.
-- If you can, bring in a co-host to help manage the flow or take over if something comes up.
-- Moderators and admins are usually around if you need help with moderation. Just ask. The instance owner will have the ability to moderate their event.
----
-2
-Starting Your Event
-- Welcome everyone and set a friendly, respectful tone.
-- Let people know what to expect. Give a quick overview of the plan, like:
- “We’ll start with introductions, then move into the activity or discussion, and finish with a closing.”
-- If the event needs rules, explain them early. Remind people to respect each other, avoid trolling, and not interrupt. This is especially important in interactive events like improv or Lean On Me.
-- Invite people to engage however they’re most comfortable. They can participate, talk, play, share, or just listen and hang out.
-- When new folks join, take a moment to welcome them, explain what’s going on, and invite them to join in. It helps them feel included and keeps things running smoothly.
-- Handling Takeover Attempt. If someone tries to run the event their own way, politely acknowledge their input but set clear boundaries. For example: “I appreciate your ideas, but I’d like to keep things on track with the plan for today’s event. Please sit back, relax, and enjoy as a participant.”
----
-3
-Ending Your Event
-- Give a clear cue when the event is wrapping up so no one is left wondering what to do.
-- Suggest next steps, like other events happening later or regular hangout worlds they can jump into.
-- Be mindful of the time. Try to finish before the next scheduled event. If possible, drop a portal or point people to where they can go next.
-- Sample wrap-up line:
- “That’s the end of the event, but if you’d like to keep hanging out, here are a few options...”
-- After the event, take a few minutes to note what worked and what didn’t. This helps you tweak things for next time. If you had a co-host, check in with them for feedback too.
+National Days
 
-⭐ Remember: You don’t have to be perfect, just present. Your job is to create a welcoming space, and the community appreciates your effort. If something goes off track, just adapt and keep going.
+national do something nice day
+national get funky day
+national rhode island day
+national apple betty day
 ---
-4
-Comfort Settings and Participant Tools
-Give these reminders early on to help everyone feel more in control of their space:
-- Show how to use earmuff mode and adjust sound radius.
-- Explain how to control individual volume levels, mute, or turn people up/down.
-- Encourage use of the Moderation tab for personal safety (block, mute, report).
+Darwin Award
+Crotch Rocket - 2004 Honorable Mention
 
-If your event doesn’t allow avatar powers or sound effects, make that clear from the start. Give one warning if needed, and if the issue continues, remove the person.
+(28 March 2004, Jacksonville, Florida) Shannon, 35, had a fun idea for a prank: shoot a six-inch rocket at his girlfriend as he drove by in his Ford Mustang. But before he could launch it out the window, the fuse burned down to the ignition point, and the rocket began to ricochet around the inside of his car, finally exploding between his legs. The flash temporarily blinded him, which protected him from seeing the extent of the damage.
+Neighbors saw the flash and heard the explosion. They rushed toward the car to find a person on fire! They extinguished the flames, to reveal a man singed from his groin to his toes, with an outline of his sandals burned onto his feet.
 
-If side conversations get loud or off-topic, gently bring the focus back or ask folks to move to a quieter spot if it’s not related to the event.
+"I thought I was dead," Shannon told a reporter. "I couldn't see, I couldn't hear, I couldn't walk." He was taken to a medical center and treated for second-degree burns. When interviewed by a reporter, he reflected on his potentially fatal encounter with rockets, raised his hairless eyebrows, and said, "No more of those!"
 ---
-5
-Troubleshooting and How-To’s
-Full instructional videos are available in the Host Hub on Discord.
-Here are some common issues and quick fixes:
-- Mic or audio not working?
- Check your input settings in VRChat and Windows. Try switching mics or reselecting it in the VRChat menu.
-- Can’t hear others?
- Make sure earmuff mode is off and your sound radius is set correctly.
-- Not sure where to find something?
- Use the VRChat menu to access Settings or Safety, or ask a mod or co-host to help.
+Birds Aren’t Real – FAKE
+Claims all birds were replaced by government spy drones in the ‘70s. Created as satire, but some people took it seriously.
 
-This section should include quick guidance on:
- • Common mic and audio issues
- • How to use VRChat’s UI tools
- • Where to find help or settings during the event
- • Moderation via the group
-Feel free to expand this section based on the needs of your specific group or event style.
+Denver Airport Is a Secret Illuminati Base – PARTIALLY BASED ON REAL EVENTS
+The airport’s odd murals, budget overruns, and underground tunnels sparked rumors of secret societies. The tunnels are real (for luggage systems), the rest isn’t.
+
+Finland Doesn’t Exist – FAKE
+A Reddit joke that spiraled into a belief that Finland was invented by Russia and Japan to fish the Baltic Sea unnoticed.
+
+Paul McCartney Died in 1966 – FAKE
+Fans claim “clues” in Beatles albums prove Paul died in a car crash and was replaced by a lookalike. Paul himself has confirmed he’s very much alive.
+
+The Moon Is a Hologram – FAKE
+Some fringe thinkers believe the moon is a projection used to hide something—no evidence whatsoever.
 ---
-6
-Roles at a Glance
-Understanding who does what makes hosting easier and smoother. Here's a quick breakdown:
-- Host
- Runs the event, creates the Group+ instance, sets the tone, explains the rules, and guides the flow.
- Note: The host who creates the instance or portal automatically has moderation permissions for that instance.
-- Co-Host
- Assists with managing the event. Can greet late joiners, help answer questions, redirect side conversations, or take over if the host disconnects or needs support.
-- Moderator/Admin
- Handles rule enforcement, moderation tools, technical support, or escalations during the event if needed.
+The Earth Is Hollow – FAKE
+Claims the Earth is hollow with hidden civilizations inside. Inspired by old adventure stories and 19th-century pseudoscience.
+
+Tupac Lives in Cuba – FAKE
+Conspiracy based on “sightings” and sketchy autopsy rumors. No evidence he survived; officially, he was killed in 1996.
+
+Time Cube – FAKE
+A rambling internet theory that time has four days happening simultaneously. No scientific credibility, but it’s an infamous internet cult topic.
+
+The Mandela Effect – PARTIALLY BASED ON REAL EVENTS
+People misremembering facts (like “Berenstain Bears” or “Febreze”) led to theories about parallel universes. Psychologists say it’s just memory distortion.
+---
+Chemtrails Control the Weather and Minds – FAKE
+White airplane trails are water vapor, not chemicals. No credible evidence supports weather/mind-control chemicals.
+CERN Opened a Portal to Another Dimension – FAKE
+People claim experiments at the Large Hadron Collider tore open reality. The science doesn’t back it up, but the internet sure loves the idea.
+
+The Simulation Theory – PARTIALLY BASED ON REAL EVENTS
+Philosophers and scientists (including Elon Musk) have debated whether reality could be simulated. It’s a thought experiment, not proven fact.
+
+The Moon Landing Was Filmed by Stanley Kubrick – FAKE
+Conspiracists think NASA hired Kubrick to fake the 1969 moon landing. Tons of physical evidence prove the landing was real.
+
+Flat Earth (Antarctica as the Ice Wall) – FAKE
+Claims Earth is flat and surrounded by an ice wall guarded by governments. Easily disproved by satellite data and circumnavigation.
+
+Lizard People Run the Government – FAKE
+David Icke’s theory that shapeshifting reptilian aliens control world leaders. Pure science fiction.
+---
+The Mandela Effect Is a CIA Experiment – FAKE
+Spin-off theory saying memory glitches are caused by government experiments. No credible evidence.
+
+The Titanic Never Sank – PARTIALLY BASED ON REAL EVENTS
+People think the Titanic was swapped with its sister ship, the Olympic, for insurance fraud. Ships and photos disprove it, but both vessels did exist.
+
+The Black Knight Satellite – PARTIALLY BASED ON REAL EVENTS
+Based on real space debris and radio signals from the 1950s. NASA identified it as leftover metal, not an alien probe.
+
+Australia Isn’t Real – FAKE
+A meme-turned-belief claiming Australians are paid actors and flights go to South America. 100% internet nonsense.
+
+COVID Was a Cover-Up for 5G Towers – FAKE
+One of the wildest modern theories claiming 5G caused COVID symptoms or was part of a global control plan. Proven false by science and health organizations.
+---
+Kitty's Opening
+
+I’ve worked in customer service way too long, and if there’s one thing it’s taught me, it’s that people do not listen. Like at all. Not even a little bit.
+
+At the drive-thru, we usually answer and just take your order. But sometimes we’re juggling five things at once, someone’s burning fries, someone else is crying in the freezer, and I just need a second. So instead of jumping straight into taking the order, I’ll say, “Hi, someone will be right with you.”
+
+That clearly means wait. Just hold on. One moment.
+
+But no. People hear the word “hi” and treat it like the starting pistol in a race. They immediately launch into their order like they’re yelling it through a megaphone at a food truck across a parking lot.
+
+“Yeah hi I’ll get a double burger combo no tomato extra pickles large fry root beer!”
+
+Sir. I didn’t even ask what you wanted yet. You’re screaming into the void. This is like yelling your grocery list into a tunnel and hoping a sandwich comes out the other side.
+
+One night I decided to test how bad it really was. I was in a bit of a mood. So I answered the speaker with, “Welcome to Wendy’s, how can we McDonald’s you today?”
+
+And keep in mind, we’re not Wendy’s. We’re not McDonald’s. We’re not even close. But the guy didn’t react at all. Just started giving me his order like that was the most normal sentence he’d ever heard.
+
+At that point I could have said “Welcome to Hogwarts, your combo has been chosen by the Sorting Hat,” and he probably still would have asked for a large coke and a side of ranch.
+
+Anyway. That’s the level of brainpower I’m dealing with on a daily basis, so if I seem a little unhinged tonight... just know it’s earned.
+---
+You ever notice how some people treat fast food like it’s a life-or-death situation? Like the drive-thru is the final boss in a video game and if they don’t get the perfect burger they’re going to die.
+
+I had a guy once ask for a burger “exactly like the picture” and then spent ten minutes arguing that the picture was lying. Buddy, it’s a sandwich. The lettuce isn’t going to text you back.
+
+And then there’s the people who act like they’re doing us a favor by ordering. Like we’re supposed to be grateful they’re gracing us with their existence. Sir, I literally get paid to take your order. Your compliments are optional.
+
+I swear some people treat a fast food employee like a life coach. “Can you make me feel better about my day?” Yeah, sure. Here’s a fry and a Pepsi. Boom, instant therapy.
+
+Speaking of therapy, here’s a real one. I was working midnights in fast food, and this guy would always come through the drive-thru in the last hour of my shift to get breakfast on his way to work. I’ve been in a relationship for over fifteen years at this point.
+
+One night, he pays for his order with a bill that’s paper clipped to a note. And on the note? His phone number. Just sitting there like it’s a normal Tuesday transaction.
+
+I stared at it for a solid ten seconds. Then I looked at him. He’s smiling like he’s just offered me a promotion. Buddy, I’ve already got someone who loves me, and it’s not you. And also, congrats, you just made paying for your sausage biscuit the most awkward thing in my life.
+---
+I have seen some shit. Working overnights in a 24-hour coffee shop will do that to you. You think nothing surprises you… and then the universe proves you wrong.
+
+One night someone OD’d in the bathroom. Full-on overdose. I had to call an ambulance. Then management goes, “We need Narcan in the store from now on, just in case.”
+
+Excuse me? I make minimum wage. I did not sign up to be a pharmacist or a paramedic while taking orders for frappuccinos. The only thing I wanted to revive was my will to live.
+
+And then there was the homeless guy. Normally, fine. Some people just grab a coffee and hang out. No problem. But this guy decided the handicapped bathroom stall was prime real estate. He built a full-on bedroom in there. Blanket, pillow, maybe a mini fridge—I didn’t look too closely.
+
+We tell him, “Sir, you can’t live here.” And he goes, “I fell and hurt my knee.”
+
+Right. So we call an ambulance. They come, take him away, and the stall is empty. Except for his blanket, and maybe his dignity. Hard to say.
+
+By the end of that shift, I just stood there thinking, yeah, I have seen some shit. And the universe still expects me to smile at customers.
+---
+I have seen some shit. Managing GameStop will do that to you. You think you know what kind of weird humans exist… and then they prove you wrong.
+
+There was this guy who threw his game at me because I wouldn’t return it. Outside the return policy. He storms out yelling he’ll never come back. I thought, good. Enjoy your moral high ground.
+
+Fast forward to Boxing Day, one of our biggest sale days. Guess who’s back? Mr. “I’ll-never-return-here-again.” Moral outrage lasts three minutes… until saving twenty bucks brings you right back. I wanted to hand him a loyalty card and a cape and say, “Welcome home, sinner. Don’t forget your dragon handbook.”
+
+Then there were the two guys who spent three hours arguing how a dragon would be on its period. I tried to redirect them to something normal, like a game. Nope. Nothing could distract them from mythical biology. Three hours. Zero purchases. Dragons: very hormonal. Customers: worse. Honestly, I learned more about dragon biology than I ever wanted to know.
+
+And toddlers in the store? Don’t get me started. One couple comes in with a toddler in a stroller. Cute kid, happy little balloon… until I look closer. That balloon? A blown-up condom. Just sitting there, judging me. I half expected it to start lecturing me on dragon periods.
+---
+Another time, a woman left her kid in front of the store while she drove over to Walmart to shop, like we were unpaid babysitters. The kid walks in alone, face full-on stress level dragon-period, pacing laps like a tiny anxious track star. Over an hour in, we called the police to report an abandoned child. The mom finally comes back over two hours later to pick him up. She didn’t expect he wouldn’t be there and had to be told to go to the police. I wanted to hand her a map, a snack, and a note that said, “Good luck surviving aisle three—dragons may be hormonal today.”
+
+And the “time vampires.” Customers who just talk. And talk. And talk. I’m not your friend. I don’t care about your weekend. Stop talking. By the end of some shifts I wanted to hand people a GameCube controller and tell them to press start on their own drama. Maybe ask the condom balloon for tips first.
+
+At the end of the day, I stand there thinking, yeah, I have seen some shit. Dragons on their period. Condoms masquerading as balloons. Kids abandoned like tiny luggage. Moral outrage that lasts three minutes. And somehow, the universe still expects me to smile at customers. Smile. Nod. Survive. Repeat.
+---
+So yeah, that’s the world I live in. I’ve dealt with people who think yelling makes a burger taste better, adults who leave children alone like tiny luggage, and humans who treat dragons like they’re part of our reality. I’ve had more absurd encounters than I care to count, and somehow I have survived every single one.
+
+The real lesson here? Life is chaos, people are ridiculous, and sometimes the universe just wants to watch you try to make sense of it all. So I smile, I nod, I survive, and I keep some snacks handy just in case it all goes sideways.
+
+Thank you, everyone. You’ve been amazing. May your balloons stay normal, your toddlers stay accounted for, your dragons stay fictional, and your drive-thru orders actually make sense.
